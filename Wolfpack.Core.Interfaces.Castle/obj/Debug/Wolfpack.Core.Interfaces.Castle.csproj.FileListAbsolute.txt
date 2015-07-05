@@ -1,0 +1,7 @@
+C:\Users\jdrui\Documents\Visual Studio 2015\Projects\Wolfpack-Redux\Wolfpack.Core.Interfaces.Castle\bin\Debug\Wolfpack.Core.Interfaces.Castle.dll
+C:\Users\jdrui\Documents\Visual Studio 2015\Projects\Wolfpack-Redux\Wolfpack.Core.Interfaces.Castle\bin\Debug\Wolfpack.Core.Interfaces.Castle.pdb
+C:\Users\jdrui\Documents\Visual Studio 2015\Projects\Wolfpack-Redux\Wolfpack.Core.Interfaces.Castle\bin\Debug\Castle.Core.dll
+C:\Users\jdrui\Documents\Visual Studio 2015\Projects\Wolfpack-Redux\Wolfpack.Core.Interfaces.Castle\bin\Debug\Castle.Core.xml
+C:\Users\jdrui\Documents\Visual Studio 2015\Projects\Wolfpack-Redux\Wolfpack.Core.Interfaces.Castle\obj\Debug\Wolfpack.Core.Interfaces.Castle.csprojResolveAssemblyReference.cache
+C:\Users\jdrui\Documents\Visual Studio 2015\Projects\Wolfpack-Redux\Wolfpack.Core.Interfaces.Castle\obj\Debug\Wolfpack.Core.Interfaces.Castle.dll
+C:\Users\jdrui\Documents\Visual Studio 2015\Projects\Wolfpack-Redux\Wolfpack.Core.Interfaces.Castle\obj\Debug\Wolfpack.Core.Interfaces.Castle.pdb

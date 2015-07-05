@@ -1,0 +1,1 @@
+C:\Users\jdrui\Documents\Visual Studio 2015\Projects\Wolfpack-Redux\Wolfpack.Core.WebServices.Client\obj\Debug\Wolfpack.Core.WebServices.Client.csprojResolveAssemblyReference.cache

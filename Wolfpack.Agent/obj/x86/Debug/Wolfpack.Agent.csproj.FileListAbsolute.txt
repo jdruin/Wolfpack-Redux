@@ -1,0 +1,2 @@
+C:\Users\jdrui\Documents\Visual Studio 2015\Projects\Wolfpack-Redux\Wolfpack.Agent\bin\Debug\Wolfpack.Agent.exe.config
+C:\Users\jdrui\Documents\Visual Studio 2015\Projects\Wolfpack-Redux\Wolfpack.Agent\obj\x86\Debug\Wolfpack.Agent.csprojResolveAssemblyReference.cache
